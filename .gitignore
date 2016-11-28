@@ -61,4 +61,4 @@ fabric.properties
 hs_err_pid*
 
 # ignore the target directories
-*/target/**
+target/
